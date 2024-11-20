@@ -34,8 +34,8 @@ I enjoy writing detailed and technical posts on Substack.
 ---
 
 ## 📊 GitHub Stats  
-![Şeref's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lethalego&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lethalego&layout=compact&theme=radical)
+![Şeref's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serefkosnek-dev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serefkosnek-dev&layout=compact&theme=radical)
 
 ---
 
